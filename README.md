@@ -1,5 +1,4 @@
-Base64 for OCaml
-================
+## Base64 -- Base64 encoding for OCaml
 
 Base64 is a group of similar binary-to-text encoding schemes that represent
 binary data in an ASCII string format by translating it into a radix-64
